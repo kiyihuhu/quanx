@@ -12,7 +12,7 @@ hostname = .*imdrq.cn,.*imdrq.com
 
 var obj = JSON.parse($response.body);
 
-obj.data.vip = "1";
+obj.data.vip = 1;
 
 $done({
   body: JSON.stringify(obj),
