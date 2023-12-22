@@ -1,7 +1,7 @@
 /******************************
 [rewrite_local]
 
-https?:\/\/imdrq\.(cn|com)\/api\/.*get_user url script-response-body https://raw.githubusercontent.com/kiyihuhu/quanx/main/kuzhu.js?token=GHSAT0AAAAAACL5WYRIIFGO4JLYMC4SXTLMZMFPTBQ
+https?:\/\/imdrq\.(cn|com)\/api\/.*get_user url script-response-body https://raw.githubusercontent.com/kiyihuhu/quanx/main/kezhu.js?token=GHSAT0AAAAAACL5WYRIIFGO4JLYMC4SXTLMZMFPTBQ
 
 
 [mitm] 
