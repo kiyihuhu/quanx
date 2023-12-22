@@ -9,7 +9,7 @@
 hostname = .*imdrq.cn,.*imdrq.com
 
 /*******************************/
-
+hostname = .*imdrq.cn,.*imdrq.com
 var obj = JSON.parse($response.body);
 
 obj.data.vip = 1;
